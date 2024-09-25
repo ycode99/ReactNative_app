@@ -16,18 +16,10 @@ export default function App() {
 //StyleSheet object
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  dumytext:{
-    margin:20,
-    borderWidth: 1,
-    padding: 10,
-    borderColor: 'blue',
-    color: '#800080'
+    padding: 50,
   }
 });
+
+
 
  
