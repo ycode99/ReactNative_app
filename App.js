@@ -6,7 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text style={styles.dumytext}>Wellcome To Native App</Text>
       <Text style={styles.dumytext}>Yashwant Apply styles</Text>
-      <Button title="Click Here !!!"/>
+      <Button title="Click Here !!!!"/>
       
       <StatusBar style="auto" />
     </View>
